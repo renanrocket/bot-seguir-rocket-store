@@ -1,0 +1,101 @@
+[
+  {
+    "name": "mid",
+    "value": "W_MtMwAEAAFPl9L1rY5QBEc_ZAIu",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1858023512.46548,
+    "size": 31,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "mcd",
+    "value": "3",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1858023512.465512,
+    "size": 4,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "urlgen",
+    "value": "\"{\\\"191.52.228.76\\\": 262716}:1gWDm7:-zqtKPbeXHX-USqHNRp0VY0cMyo\"",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": -1,
+    "size": 70,
+    "httpOnly": true,
+    "secure": true,
+    "session": true
+  },
+  {
+    "name": "csrftoken",
+    "value": "jDJAll9f2OAnWc2QURJyoRdJwmYFbs8C",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1575867995.351022,
+    "size": 41,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "sessionid",
+    "value": "2097221122%3AHA0HSVCxPlwBvR%3A19",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1575917665.399454,
+    "size": 41,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "ds_user_id",
+    "value": "2097221122",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1552194395.350974,
+    "size": 20,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "shbts",
+    "value": "1544204150.6413543",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1544808954.7516,
+    "size": 23,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "shbid",
+    "value": "18779",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1544808954.751512,
+    "size": 10,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "rur",
+    "value": "FRC",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": -1,
+    "size": 6,
+    "httpOnly": true,
+    "secure": true,
+    "session": true
+  }
+]
